@@ -16,6 +16,4 @@
 - https://www.w3.org/WAI/GL/wiki/ARIATechnique_usingImgRole_with_aria-label_forCSS-backgroundImage
 - https://www.w3schools.com/html/html5_semantic_elements.asp
 - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
-- Adam Willetts:
-- 
-![Screenshot from Slack](./assets/readme_images/slack_screenshot.jpeg)
+- [Adam Willetts](./assets/readme_images/slack_screenshot.jpeg)
