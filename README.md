@@ -7,8 +7,8 @@
 - Several CSS declaratiogns were also removed and consolidated into single sections that follow the new semantic tags.
 - Comments were added to the CSS file to make the code more readable and understandable.
 - id attributes were added to several elements to make in-page links functional
-- 
 
+Preview of the finished site:
 ![Full page screenshot of site](./assets/readme_images/full_page_screenshot.png)
 
 ## Installation
