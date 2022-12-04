@@ -9,11 +9,13 @@
 - id attributes were added to several elements to make in-page links functional.
 - The final site has also been [deployed to GitGub Pages](https://trunten.github.io/horizon-code-refactor/)
 
-Preview of the finished site:
-![Full page screenshot of site](./assets/readme_images/full_page_screenshot.png)
-
 ## Installation
 N/A
+
+## Usage
+- [Link to deployed site](https://trunten.github.io/horizon-code-refactor/)
+- Preview of the finished site:
+![Full page screenshot of site](./assets/readme_images/full_page_screenshot.png)
 
 ## Credits
 - https://www.w3.org/WAI/GL/wiki/ARIATechnique_usingImgRole_with_aria-label_forCSS-backgroundImage
