@@ -10,9 +10,12 @@
 
 - Comments were added to the CSS file to make the code more readable and understandable.
 
+![Full page screenshot of site](/assets/readme_images/full_page_screenshot.png)
+
 ## Links
 - https://www.w3.org/WAI/GL/wiki/ARIATechnique_usingImgRole_with_aria-label_forCSS-backgroundImage
 - https://www.w3schools.com/html/html5_semantic_elements.asp
 - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
 - Adam Willetts:
-![Screenshot from Slack]()
+- 
+![Screenshot from Slack](/assets/readme_images/slack_screenshot.jpeg)
