@@ -15,6 +15,7 @@ N/A
 ## Usage
 - [Link to deployed site](https://trunten.github.io/horizon-code-refactor/)
 - Preview of the finished site:
+
 ![Full page screenshot of site](./assets/readme_images/full_page_screenshot.png)
 
 ## Credits
