@@ -124,19 +124,10 @@ Consolidated CSS declerations for the 3 items below
 to organise under the new semantic element
 ------------------- */
 /* This is for the headers within the aside container */
-aside h2 {
+aside h3 {
     margin-bottom: 10px;
     text-align: center;
-    /* 
-        Added a font-size property to keep heading size intact.
-        Previously, when the starter code was using an h3 tag
-        the font size was being goverened by the user stylesheet
-        (default browser property. Updating element to an h2
-        tag caused the page to diaplay with the default font
-        size for an h2 element. Therefore I have set the font
-        size to what was previously being displayed in my browser
-        (checked in developr tools for pixel size value).
-     */
+    /* Added a font-size property to keep heading size irrespective of default browser styling */
     font-size: 20px;
 }
 
